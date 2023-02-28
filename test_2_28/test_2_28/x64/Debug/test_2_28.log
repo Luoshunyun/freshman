@@ -1,0 +1,18 @@
+﻿  test.c
+E:\MSVScode\test_2_28\test_2_28\test.c(12,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\MSVScode\test_2_28\test_2_28\test.c(12,9): message : 请考虑在格式字符串中使用“%zd”
+E:\MSVScode\test_2_28\test_2_28\test.c(13,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\MSVScode\test_2_28\test_2_28\test.c(13,9): message : 请考虑在格式字符串中使用“%zd”
+E:\MSVScode\test_2_28\test_2_28\test.c(14,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\MSVScode\test_2_28\test_2_28\test.c(14,9): message : 请考虑在格式字符串中使用“%zd”
+E:\MSVScode\test_2_28\test_2_28\test.c(15,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\MSVScode\test_2_28\test_2_28\test.c(15,9): message : 请考虑在格式字符串中使用“%zd”
+E:\MSVScode\test_2_28\test_2_28\test.c(16,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\MSVScode\test_2_28\test_2_28\test.c(16,9): message : 请考虑在格式字符串中使用“%zd”
+E:\MSVScode\test_2_28\test_2_28\test.c(17,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\MSVScode\test_2_28\test_2_28\test.c(17,9): message : 请考虑在格式字符串中使用“%zd”
+E:\MSVScode\test_2_28\test_2_28\test.c(18,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\MSVScode\test_2_28\test_2_28\test.c(18,9): message : 请考虑在格式字符串中使用“%zd”
+E:\MSVScode\test_2_28\test_2_28\test.c(37,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\MSVScode\test_2_28\test_2_28\test.c(30): warning C4716: “main3”: 必须返回一个值
+  test_2_28.vcxproj -> E:\MSVScode\test_2_28\x64\Debug\test_2_28.exe
